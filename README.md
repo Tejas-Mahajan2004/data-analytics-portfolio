@@ -1,54 +1,121 @@
-# 📊 Data Analytics Portfolio
+# 📊 Data-Analytics-Portfolio
 
-This repository showcases my data analytics projects, focusing on end-to-end analysis and interactive dashboards using Python, SQL, PostgreSQL, and Power BI.
+This repository showcases my end-to-end Data-Analytics projects, covering data-cleaning, feature-engineering, database-modeling, SQL-based business-analysis, and interactive Power-BI dashboards.
+
+Each project follows a structured workflow:
+
+**Raw-Data → Data-Cleaning → Feature-Engineering → Database → SQL-Analysis → Business-Insights → Dashboard**
 
 ---
 
 ## 📁 Projects
 
-### 🛒 Customer Shopping Behavior Analysis
-End-to-end data analytics project analyzing customer purchasing patterns to support data-driven business decisions.
+### 1️⃣ Customer-Shopping-Behavior-Analysis
 
-**Key Highlights:**
-- Data cleaning & feature engineering using Python (Pandas)
-- Data storage and analysis using PostgreSQL
-- Business-driven SQL analysis
-- Interactive Power BI dashboard for insights and KPIs
+End-to-end analytics project analyzing customer purchasing-behavior and subscription-impact.
 
-📂 Project Folder:  
-[Customer Shopping Behavior Analysis](projects/customer-shopping-behavior-analysis)
+#### 🔍 Project-Focus
+
+- Customer-spending-patterns  
+- Subscription-impact-analysis  
+- Discount-effectiveness  
+- Product-performance  
+- Revenue-segmentation  
+
+#### 🛠 Tech-Used
+
+- Python (Pandas)  
+- PostgreSQL  
+- SQL  
+- Power-BI  
+
+#### 🚀 Key-Highlights
+
+- Handled missing-values & feature-engineering  
+- Created age-groups & purchase-frequency-mapping  
+- Loaded cleaned-data into PostgreSQL  
+- Wrote business-focused SQL-queries  
+- Built interactive KPI-driven Power-BI dashboard  
+
+📂 Folder:  
+`projects/customer-shopping-behavior-analysis`
 
 ---
 
-## 📊 Power BI Dashboards
-- Mobile Sales Dashboard  
-- E-commerce Customer Analytics Dashboard  
-- Business Decision Simulator Dashboard  
+### 2️⃣ Customer-CLV-and-Churn-Analysis (RFM-Based)
+
+Advanced customer-analytics project focused on Customer-Lifetime-Value (CLV), churn-detection, and revenue-concentration.
+
+#### 🔍 Project-Focus
+
+- RFM-Modeling (Recency, Frequency, Monetary)  
+- Customer-Segmentation  
+- Revenue-at-Risk-Analysis  
+- Churn-Identification  
+- Pareto-Analysis   
+
+#### 🛠 Tech-Used
+
+- Python (Pandas)  
+- PostgreSQL  
+- SQL (CTEs, Window-Functions)  
+- Power-BI  
+
+#### 🚀 Key-Highlights
+
+- Cleaned multi-sheet retail-dataset  
+- Built RFM customer-table  
+- Developed segmentation-logic (Champions, Loyal, At-Risk, etc.)  
+- Calculated CLV & churn-flag  
+- Identified revenue-concentration risk  
+- Built executive-level CLV dashboard  
+
+📂 Folder:  
+`projects/customer-clv-churn-analysis`
 
 ---
 
-## 🛠️ Skills Demonstrated
-- Data Cleaning & Transformation
-- SQL Querying & Analysis
-- Database Management (PostgreSQL)
-- Data Modeling
-- DAX Calculations
-- Business KPI Analysis
-- Interactive Dashboards
-- What-if Analysis
+## 📊 Standalone-Power-BI-Dashboards
+
+- 📱 Mobile-Sales-Dashboard  
+- 🛍️ E-commerce-Customer-Analytics-Dashboard  
+- 📊 Business-Decision-Simulator-Dashboard  
+
+📂 Folder:  
+`powerbi-dashboards`
 
 ---
 
-## 🧰 Tools & Technologies
-- Python (Pandas)
-- SQL
-- PostgreSQL
-- Power BI
-- CSV Datasets
-- Git & GitHub
+## 🧠 Skills-Demonstrated
+
+- Data-Cleaning & Transformation  
+- Feature-Engineering  
+- RFM-Modeling  
+- Customer-Segmentation  
+- Churn-Analysis  
+- CLV-Calculation  
+- Advanced-SQL (CTEs, Window-Functions)  
+- PostgreSQL-Database-Integration  
+- Business-KPI-Development  
+- Interactive-Dashboard-Design  
+- Revenue-Risk-Analysis  
+- Git-Version-Control  
+
+---
+
+## 🧰 Tools-and-Technologies
+
+- Python (Pandas)  
+- SQL  
+- PostgreSQL  
+- Power-BI  
+- Excel / CSV  
+- Git & GitHub  
 
 ---
 
 ## 👤 Author
-**Tejas Mahajan**  
-Data Analyst | Power BI | SQL | Python
+
+**Tejas-Mahajan**  
+Aspiring-Data-Analyst  
+Power-BI | SQL | Python | PostgreSQL
