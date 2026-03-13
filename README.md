@@ -4,7 +4,7 @@ This repository showcases my end-to-end Data-Analytics projects, covering data-c
 
 Each project follows a structured workflow:
 
-**Raw-Data → Data-Cleaning → Feature-Engineering → Database → SQL-Analysis → Business-Insights → Dashboard**
+**Raw-Data → Data Cleaning → Feature Engineering → Database → SQL-Analysis → Business-Insights → Dashboard**
 
 ---
 
@@ -72,6 +72,39 @@ Advanced customer-analytics project focused on Customer-Lifetime-Value (CLV), ch
 
 📂 Folder:  
 `projects/customer-clv-churn-analysis`
+
+---
+
+### 3️⃣ Financial-Health-Score-Analysis
+
+End-to-end analytics project evaluating financial behavior of users by building a Financial Health Score model based on income, spending, savings, and debt indicators.
+
+#### 🔍 Project-Focus
+
+- Financial-health-scoring-model
+- Income vs spending-behavior-analysis
+- Savings-ratio & debt-burden-evaluation
+- Financial-risk-categorization
+- User-financial-stability-analysis
+
+#### 🛠 Tech-Used
+
+- Python (Pandas, NumPy)
+- PostgreSQL
+- SQL
+- Power-BI
+
+#### 🚀 Key-Highlights
+
+- Generated synthetic financial-dataset using Python
+- Engineered financial-metrics (Savings-Ratio, Debt-Burden, Spending-Ratio)
+- Developed Financial-Health-Score-model
+- Classified users into financial-risk categories
+- Performed SQL-based financial behavior analysis
+- Built interactive Power-BI dashboard showing financial stability patterns
+
+📂 Folder:
+`projects/financial-health-score-analysis`
 
 ---
 
