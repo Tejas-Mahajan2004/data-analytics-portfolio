@@ -1,4 +1,4 @@
-# 📊 Data-Analytics-Portfolio
+# Data-Analytics-Portfolio
 
 This repository showcases my end-to-end Data-Analytics projects, covering data-cleaning, feature-engineering, database-modeling, SQL-based business-analysis, and interactive Power-BI dashboards.
 
@@ -10,7 +10,7 @@ Each project follows a structured workflow:
 
 ## 📁 Projects
 
-### 1️⃣ Customer-Shopping-Behavior-Analysis
+### 1️. Customer-Shopping-Behavior-Analysis
 
 End-to-end analytics project analyzing customer purchasing-behavior and subscription-impact.
 
@@ -29,7 +29,7 @@ End-to-end analytics project analyzing customer purchasing-behavior and subscrip
 - SQL  
 - Power-BI  
 
-#### 🚀 Key-Highlights
+#### Key-Highlights
 
 - Handled missing-values & feature-engineering  
 - Created age-groups & purchase-frequency-mapping  
@@ -42,7 +42,7 @@ End-to-end analytics project analyzing customer purchasing-behavior and subscrip
 
 ---
 
-### 2️⃣ Customer-CLV-and-Churn-Analysis (RFM-Based)
+### 2️. Customer-CLV-and-Churn-Analysis (RFM-Based)
 
 Advanced customer-analytics project focused on Customer-Lifetime-Value (CLV), churn-detection, and revenue-concentration.
 
@@ -61,7 +61,7 @@ Advanced customer-analytics project focused on Customer-Lifetime-Value (CLV), ch
 - SQL (CTEs, Window-Functions)  
 - Power-BI  
 
-#### 🚀 Key-Highlights
+#### Key-Highlights
 
 - Cleaned multi-sheet retail-dataset  
 - Built RFM customer-table  
@@ -75,7 +75,7 @@ Advanced customer-analytics project focused on Customer-Lifetime-Value (CLV), ch
 
 ---
 
-### 3️⃣ Financial-Health-Score-Analysis
+### 3️. Financial-Health-Score-Analysis
 
 End-to-end analytics project evaluating financial behavior of users by building a Financial Health Score model based on income, spending, savings, and debt indicators.
 
@@ -94,7 +94,7 @@ End-to-end analytics project evaluating financial behavior of users by building 
 - SQL
 - Power-BI
 
-#### 🚀 Key-Highlights
+#### Key-Highlights
 
 - Generated synthetic financial-dataset using Python
 - Engineered financial-metrics (Savings-Ratio, Debt-Burden, Spending-Ratio)
@@ -110,16 +110,16 @@ End-to-end analytics project evaluating financial behavior of users by building 
 
 ## 📊 Standalone-Power-BI-Dashboards
 
-- 📱 Mobile-Sales-Dashboard  
-- 🛍️ E-commerce-Customer-Analytics-Dashboard  
-- 📊 Business-Decision-Simulator-Dashboard  
+- Mobile-Sales-Dashboard  
+- E-commerce-Customer-Analytics-Dashboard  
+- Business-Decision-Simulator-Dashboard  
 
 📂 Folder:  
 `powerbi-dashboards`
 
 ---
 
-## 🧠 Skills-Demonstrated
+## Skills-Demonstrated
 
 - Data-Cleaning & Transformation  
 - Feature-Engineering  
@@ -136,7 +136,7 @@ End-to-end analytics project evaluating financial behavior of users by building 
 
 ---
 
-## 🧰 Tools-and-Technologies
+## Tools-and-Technologies
 
 - Python (Pandas)  
 - SQL  
