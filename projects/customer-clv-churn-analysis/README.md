@@ -1,9 +1,9 @@
 # Customer Lifetime Value & Churn Risk Analysis
-## 📌 Project Overview
+##  Project Overview
 
 This end-to-end data analytics project analyzes transactional retail data to identify high-value customers, detect churn risk, and evaluate revenue concentration using RFM (Recency, Frequency, Monetary) segmentation.
 
-### 🎯 Project Objectives
+###  Project Objectives
 
     - Maximize Customer Lifetime Value (CLV)
     - Reduce revenue loss due to churn
@@ -12,7 +12,7 @@ This end-to-end data analytics project analyzes transactional retail data to ide
 
 The project follows a complete analytics workflow using Python, PostgreSQL, SQL, and Power BI.
 
-## 🎯 Business Problem
+##  Business Problem
 
 In competitive e-commerce environments, companies struggle to:
 
@@ -31,7 +31,7 @@ Revenue is often highly concentrated among a small segment of customers. Losing 
     4. Is the business overly dependent on a small group of customers?
     5. Which segments require immediate retention strategies?
 
-## 🛠 Tools & Technologies
+##  Tools & Technologies
 
     Python (Pandas, OS, SQLAlchemy)
     PostgreSQL
@@ -40,7 +40,7 @@ Revenue is often highly concentrated among a small segment of customers. Losing 
     Git & GitHub
 
 
-## 🧹 Data Preparation (Python)
+##  Data Preparation (Python)
 Data Loading
     - Combined 2009 and 2010 retail transaction sheets
     - Loaded data using Pandas
@@ -76,13 +76,13 @@ Business Metrics
     - Churn flag (Recency > 90 days)
     - Revenue at risk
 
-## 🗄 Database Integration (PostgreSQL)
+##  Database Integration (PostgreSQL)
     - Loaded RFM dataset into PostgreSQL using SQLAlchemy
     - Created structured table: customer_rfm
     - Enabled SQL-based business analysis
     - Performed advanced aggregations and window functions
 
-## 📊 SQL Business Analysis
+##  SQL Business Analysis
 
 The following insights were generated using SQL queries:
 
@@ -100,7 +100,7 @@ Key Findings:
 
 All SQL queries are documented in analysis_queries.sql.
 
-## 📈 Power BI Dashboard
+##  Power BI Dashboard
 
 An executive-level dashboard was built including:
 
@@ -120,28 +120,28 @@ Visualizations
 
 The dashboard provides clear visibility into revenue concentration and churn risk.
 
-## 💡 Key Business Insights
+##  Key Business Insights
     - Revenue is highly concentrated among a small percentage of customers.
     - Nearly 20% of total revenue is exposed to churn.
     - Champions represent a small portion of customers but drive almost half of revenue.
     - At Risk and Others segments require proactive retention strategies.
     - Business dependency on elite customers creates financial vulnerability.
 
-## 📌 Business Recommendations
+##  Business Recommendations
     - Implement loyalty programs for Champions.
     - Target At Risk customers with personalized campaigns.
     - Monitor revenue concentration monthly.
     - Introduce predictive churn modeling in the next phase.
     - Expand mid-value customer engagement to reduce dependency risk.
 
-## 🚀 Future Improvements
+##  Future Improvements
     - Machine Learning-based churn prediction model
     - Advanced probabilistic CLV modeling
     - Deploy dashboard using Power BI Service
     - Automate ETL pipeline using Airflow
     - Real-time customer monitoring
 
-🏆 Conclusion
+ Conclusion
 This project demonstrates a complete end-to-end data analytics workflow:
     - Data cleaning & feature engineering in Python
     - Database integration with PostgreSQL
