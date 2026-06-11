@@ -1,6 +1,6 @@
 # Customer Shopping Behavior Analysis
 
-## 📌 Project Overview
+##  Project Overview
 This end-to-end data analytics project analyzes customer shopping behavior to uncover insights
 into spending patterns, subscription behavior, product performance, and customer segments.
 The goal is to help the business make data-driven decisions to improve revenue, customer
@@ -9,7 +9,7 @@ engagement, and loyalty.
 The project follows a complete analytics workflow using **Python, PostgreSQL, SQL, and Power BI**.
 
 
-## 🎯 Business Problem
+##  Business Problem
 A retail company wants to better understand how customers behave across:
 - Demographics (age, gender)
 - Product categories
@@ -21,7 +21,7 @@ A retail company wants to better understand how customers behave across:
 and optimize marketing and product strategies?
 
 
-## 🛠 Tools & Technologies
+##  Tools & Technologies
 - **Python** (Pandas, OS, SQLAlchemy)
 - **PostgreSQL**
 - **SQL**
@@ -29,7 +29,7 @@ and optimize marketing and product strategies?
 - **Git & GitHub**
 
 
-## 🧹 Data Preparation (Python)
+##  Data Preparation (Python)
 - Loaded raw customer shopping data using Pandas
 - Checked structure and summary statistics
 - Handled missing values in **Review Rating** using median imputation
@@ -41,13 +41,13 @@ and optimize marketing and product strategies?
 - Saved cleaned dataset for downstream analysis
 
 
-## 🗄 Database Integration (PostgreSQL)
+##  Database Integration (PostgreSQL)
 - Loaded cleaned data into PostgreSQL using SQLAlchemy
 - Created a structured `customer` table
 - Enabled SQL-based business analysis on transactional data
 
 
-## 📊 SQL Analysis (Business Questions Answered)
+##  SQL Analysis (Business Questions Answered)
 Key insights were generated using SQL queries, including:
 
 1. Total revenue by gender
@@ -64,7 +64,7 @@ Key insights were generated using SQL queries, including:
 All queries are documented in `analysis_queries.sql`.
 
 
-## 📈 Power BI Dashboard
+##  Power BI Dashboard
 An interactive **Customer Behavior Dashboard** was built to visualize insights, including:
 - Total customers, average purchase amount, and review rating KPIs
 - Subscription status distribution
@@ -75,7 +75,7 @@ An interactive **Customer Behavior Dashboard** was built to visualize insights, 
 The dashboard enables stakeholders to explore trends dynamically and make informed decisions.
 
 
-## 💡 Key Insights
+##  Key Insights
 - Non-subscribers generate higher total revenue due to volume, but subscribers show consistent spending
 - Certain products rely heavily on discounts to drive sales
 - Middle-aged and young adult customers contribute the highest revenue
@@ -83,7 +83,7 @@ The dashboard enables stakeholders to explore trends dynamically and make inform
 - Express shipping customers have slightly higher average purchase values
 
 
-## 📌 Business Recommendations
+##  Business Recommendations
 - Promote subscription benefits to convert repeat buyers
 - Introduce loyalty programs to retain high-value customers
 - Optimize discount strategies for margin control
@@ -91,7 +91,7 @@ The dashboard enables stakeholders to explore trends dynamically and make inform
 - Highlight top-rated and best-selling products in campaigns
 
 
-## 🚀 Conclusion
+##  Conclusion
 This project demonstrates a full **end-to-end data analytics workflow**, from raw data cleaning
 to database analysis and business-focused visualization. It showcases practical skills in
 Python, SQL, PostgreSQL, and Power BI for real-world analytics use cases.
