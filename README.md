@@ -6,15 +6,15 @@ Each project follows a structured workflow:
 
 **Raw-Data → Data Cleaning → Feature Engineering → Database → SQL-Analysis → Business-Insights → Dashboard**
 
----
 
-## 📁 Projects
+
+##  Projects
 
 ### 1️. Customer-Shopping-Behavior-Analysis
 
 End-to-end analytics project analyzing customer purchasing-behavior and subscription-impact.
 
-#### 🔍 Project-Focus
+####  Project-Focus
 
 - Customer-spending-patterns  
 - Subscription-impact-analysis  
@@ -22,7 +22,7 @@ End-to-end analytics project analyzing customer purchasing-behavior and subscrip
 - Product-performance  
 - Revenue-segmentation  
 
-#### 🛠 Tech-Used
+####  Tech-Used
 
 - Python (Pandas)  
 - PostgreSQL  
@@ -37,16 +37,16 @@ End-to-end analytics project analyzing customer purchasing-behavior and subscrip
 - Wrote business-focused SQL-queries  
 - Built interactive KPI-driven Power-BI dashboard  
 
-📂 Folder:  
+ Folder:  
 `projects/customer-shopping-behavior-analysis`
 
----
+
 
 ### 2️. Customer-CLV-and-Churn-Analysis (RFM-Based)
 
 Advanced customer-analytics project focused on Customer-Lifetime-Value (CLV), churn-detection, and revenue-concentration.
 
-#### 🔍 Project-Focus
+####  Project-Focus
 
 - RFM-Modeling (Recency, Frequency, Monetary)  
 - Customer-Segmentation  
@@ -54,7 +54,7 @@ Advanced customer-analytics project focused on Customer-Lifetime-Value (CLV), ch
 - Churn-Identification  
 - Pareto-Analysis   
 
-#### 🛠 Tech-Used
+####  Tech-Used
 
 - Python (Pandas)  
 - PostgreSQL  
@@ -70,16 +70,16 @@ Advanced customer-analytics project focused on Customer-Lifetime-Value (CLV), ch
 - Identified revenue-concentration risk  
 - Built executive-level CLV dashboard  
 
-📂 Folder:  
+ Folder:  
 `projects/customer-clv-churn-analysis`
 
----
+
 
 ### 3️. Financial-Health-Score-Analysis
 
 End-to-end analytics project evaluating financial behavior of users by building a Financial Health Score model based on income, spending, savings, and debt indicators.
 
-#### 🔍 Project-Focus
+####  Project-Focus
 
 - Financial-health-scoring-model
 - Income vs spending-behavior-analysis
@@ -87,7 +87,7 @@ End-to-end analytics project evaluating financial behavior of users by building 
 - Financial-risk-categorization
 - User-financial-stability-analysis
 
-#### 🛠 Tech-Used
+####  Tech-Used
 
 - Python (Pandas, NumPy)
 - PostgreSQL
@@ -103,21 +103,21 @@ End-to-end analytics project evaluating financial behavior of users by building 
 - Performed SQL-based financial behavior analysis
 - Built interactive Power-BI dashboard showing financial stability patterns
 
-📂 Folder:
+ Folder:
 `projects/financial-health-score-analysis`
 
----
 
-## 📊 Standalone-Power-BI-Dashboards
+
+##  Standalone-Power-BI-Dashboards
 
 - Mobile-Sales-Dashboard  
 - E-commerce-Customer-Analytics-Dashboard  
 - Business-Decision-Simulator-Dashboard  
 
-📂 Folder:  
+ Folder:  
 `powerbi-dashboards`
 
----
+
 
 ## Skills-Demonstrated
 
@@ -134,7 +134,7 @@ End-to-end analytics project evaluating financial behavior of users by building 
 - Revenue-Risk-Analysis  
 - Git-Version-Control  
 
----
+
 
 ## Tools-and-Technologies
 
@@ -145,9 +145,9 @@ End-to-end analytics project evaluating financial behavior of users by building 
 - Excel / CSV  
 - Git & GitHub  
 
----
 
-## 👤 Author
+
+##  Author
 
 **Tejas-Mahajan**  
 Aspiring-Data-Analyst  
