@@ -1,5 +1,5 @@
 # Financial Health Score Analysis
-## 📌 Project Overview
+##  Project Overview
 
 This end-to-end data analytics project evaluates the financial behavior of users by analyzing income, expenses, savings, and debt obligations. A Financial Health Score model is developed to measure financial stability and classify users into different financial risk categories.
 
@@ -7,7 +7,7 @@ The project simulates financial transaction data and applies analytics technique
 
 The project follows a complete analytics workflow using Python, PostgreSQL, SQL, and Power BI.
 
-### 🎯 Project Objectives
+###  Project Objectives
 
     - Evaluate financial stability of users using behavioral financial metrics
     - Identify financially vulnerable users
@@ -15,7 +15,7 @@ The project follows a complete analytics workflow using Python, PostgreSQL, SQL,
     - Classify users into financial risk categories
     - Visualize financial behavior through an interactive dashboard
 
-## 🎯 Business Problem
+##  Business Problem
 
 Many individuals earn income but still struggle with financial stability due to:
 
@@ -39,7 +39,7 @@ By understanding these patterns, companies can:
     4. Which users have the highest debt burden?
     5. What financial patterns indicate potential financial vulnerability?
 
-## 🛠 Tools & Technologies
+##  Tools & Technologies
 
     - Python (Pandas, NumPy)
     - Matplotlib & Seaborn
@@ -48,7 +48,7 @@ By understanding these patterns, companies can:
     - Power BI
     - Git & GitHub
 
-## 🧹 Data Preparation (Python)
+##  Data Preparation (Python)
 Data Generation
     A synthetic dataset of 1,000 users was generated using Python to simulate financial behavior.
 
@@ -88,7 +88,7 @@ A Financial Health Score was developed to quantify financial stability.
         - Higher spending reduces financial health
     The score ranges from 0 to 100.
 
-## 📊 User Classification
+##  User Classification
 Users were segmented into financial categories based on their health score.
 
     Score Range	Category
@@ -99,12 +99,12 @@ Users were segmented into financial categories based on their health score.
 
 In the simulated dataset used for this project, users fell into Moderate, Risky, and Vulnerable categories, with no users reaching the Financially Healthy threshold.
 
-## 🗄 Database Integration (PostgreSQL)
+##  Database Integration (PostgreSQL)
     The processed dataset was loaded into PostgreSQL using SQLAlchemy.
     Database table: financial_health
     This allowed structured SQL analysis and efficient data querying.
 
-## 📊 SQL Business Analysis
+##  SQL Business Analysis
 Several SQL queries were written to extract financial insights.
 
 Key analyses included:
@@ -118,7 +118,7 @@ Key analyses included:
 
 All SQL queries are documented in: analysis_queries.sql
 
-## 📈 Power BI Dashboard
+##  Power BI Dashboard
 An interactive analytics dashboard was created in Power BI.
 
 KPI Indicators
@@ -137,7 +137,7 @@ Visualizations
 
 The dashboard provides a comprehensive view of financial behavior patterns.
 
-## 💡 Key Business Insights
+##  Key Business Insights
 
     - 51.8% of users fall into the Risky financial category.
     - Moderate users save the highest proportion of income (~60%).
@@ -145,21 +145,21 @@ The dashboard provides a comprehensive view of financial behavior patterns.
     - Higher income groups generally demonstrate stronger savings behavior.
     - Financial stability strongly depends on the balance between savings and debt.
 
-## 📌 Business Recommendations
+##  Business Recommendations
 
     - Encourage savings programs for moderate users to move them toward financial stability.
     - Provide financial advisory services for vulnerable users with high debt burden.
     - Offer targeted financial products for high-income users with strong savings potential.
     - Implement financial education initiatives to improve financial behavior.
 
-## 🚀 Future Improvements
+##  Future Improvements
     - Incorporate real financial datasets
     - Develop machine learning models for financial risk prediction
     - Introduce time-based financial behavior tracking
     - Build automated financial scoring pipelines
     - Deploy dashboard using Power BI Service
 
-## 🏆 Conclusion
+##  Conclusion
 This project demonstrates a complete end-to-end data analytics workflow:
     - Data generation & feature engineering using Python
     - Financial scoring model development
